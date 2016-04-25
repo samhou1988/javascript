@@ -1014,7 +1014,7 @@
 
     // good
     var thisIsMyObject = {};
-    function thisIsMyFunction() {};
+    function thisIsMyFunction() {}
     var user = new User({
       name: 'Bob Parr'
     });
