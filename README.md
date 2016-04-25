@@ -623,7 +623,7 @@
     function() { return false; }
 
     // good
-    function() {
+    function name() {
       return false;
     }
     ```
