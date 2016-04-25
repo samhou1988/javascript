@@ -623,7 +623,7 @@
     function() { return false; }
 
     // good
-    function() {
+    function name() {
       return false;
     }
     ```
@@ -1014,7 +1014,7 @@
 
     // good
     var thisIsMyObject = {};
-    function thisIsMyFunction() {};
+    function thisIsMyFunction() {}
     var user = new User({
       name: 'Bob Parr'
     });
